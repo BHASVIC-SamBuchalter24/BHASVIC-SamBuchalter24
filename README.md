@@ -35,7 +35,18 @@ We initially learned how to program in C and completed programming chapters that
 [Chapter 8](https://github.com/BHASVIC-CompSci/c-chapter8-subroutines-BHASVIC-SamBuchalter24)
 
 
+After the C chapters, to wrap up our C programming, we did a quick recursion task [here](https://github.com/BHASVIC-CompSci/recursion-BHASVIC-SamBuchalter24)
+
+The two main languages we learned in year 1 of the computer science A level were C and Java. here is all the java work we did:
+
+[Intro to Java](https://github.com/BHASVIC-CompSci/JavaCourseRepo)
+
+[Encapsulation](https://github.com/BHASVIC-CompSci/Encapsulation)
+
+[Inheritence](https://github.com/BHASVIC-CompSci/Inheritance-)
+
+[Polymorphism](https://github.com/BHASVIC-CompSci/Polymorphism-)
 
 
-
+I will aim to regularly update this page, so when I complete any project, I'll add it to this document
 
