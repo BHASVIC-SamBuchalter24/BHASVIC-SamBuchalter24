@@ -19,12 +19,19 @@ In computer science, we complete both solo and group porgramming projects. Here 
 We initially learned how to program in C and completed programming chapters that tought us different programming techniques. Here are the repositories for the C chapters:
 
 [Chapter 1](https://github.com/BHASVIC-CompSci/c-chapter1-BHASVIC-SamBuchalter24)
+
 [Chapter 2](https://github.com/BHASVIC-CompSci/c-chapter2-selection-ifstatements-BHASVIC-SamBuchalter24)
+
 [Chapter 3](https://github.com/BHASVIC-CompSci/c-chapter3-case-BHASVIC-SamBuchalter24)
+
 [Chapter 4](https://github.com/BHASVIC-CompSci/c-chapter4-iteration-BHASVIC-SamBuchalter24)
+
 [Chapter 5](https://github.com/BHASVIC-CompSci/c-chapter5-arrays-BHASVIC-SamBuchalter24)
+
 [Chapter 6](https://github.com/BHASVIC-CompSci/c-chapter6-2d-arrays-BHASVIC-SamBuchalter24)
+
 [Chapter 7](https://github.com/BHASVIC-CompSci/c-chapter7-strings-BHASVIC-SamBuchalter24)
+
 [Chapter 8](https://github.com/BHASVIC-CompSci/c-chapter8-subroutines-BHASVIC-SamBuchalter24)
 
 
